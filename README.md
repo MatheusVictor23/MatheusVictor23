@@ -1,8 +1,7 @@
-## Matheus Victor 🏅
+## Matheus Victor 🏅🎮
 
-**Desenvolvedor Fullstack** 👾
-<br>
-**Análise e Desenvolvimento de Sistemas (IFAM)** 💻
+### Desenvolvedor Fullstack 👾
+### Análise e Desenvolvimento de Sistemas (IFAM)💻
 <br><br>
 
 <div style="display:flex; flex-direction:row; justify-content:space-between">
